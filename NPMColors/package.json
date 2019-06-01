@@ -1,0 +1,21 @@
+{
+  "name": "npmcolors",
+  "version": "1.0.0",
+  "description": "Esto es un paquete de configuracion de NodeJS con modulos NPM",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "curso",
+    "npm",
+    "colors"
+  ],
+  "author": "Francisco Ramirez",
+  "license": "ISC"
+}
